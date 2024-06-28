@@ -139,7 +139,7 @@ public class ProductController {
 		hashMap.put("601-700", a[6]);
 		hashMap.put("701-800", a[7]);
 		hashMap.put("801-900", a[8]);
-		hashMap.put("901-1000", a[8]);
+		hashMap.put("901-1000", a[9]);
 		return hashMap;
 		
 	}
